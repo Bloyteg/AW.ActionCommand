@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bloyteg.ActionCommand.Parser", "Bloyteg.ActionCommand.Parser\Bloyteg.ActionCommand.Parser.fsproj", "{70A17761-EC50-42DF-AFFD-4C8F414B1B57}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bloyteg.AW.ActionCommand.Parser", "Bloyteg.AW.ActionCommand.Parser\Bloyteg.AW.ActionCommand.Parser.fsproj", "{70A17761-EC50-42DF-AFFD-4C8F414B1B57}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bloyteg.ActionCommand.Parser.Test", "Bloyteg.ActionCommand.Parser.Test\Bloyteg.ActionCommand.Parser.Test.fsproj", "{C798C601-8032-4A4A-A09B-14CDE725105C}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bloyteg.AW.ActionCommand.Parser.Test", "Bloyteg.AW.ActionCommand.Parser.Test\Bloyteg.AW.ActionCommand.Parser.Test.fsproj", "{C798C601-8032-4A4A-A09B-14CDE725105C}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bloyteg.ActionCommand.Translator", "Bloyteg.ActionCommand.Translator\Bloyteg.ActionCommand.Translator.fsproj", "{955A54FA-D1AE-4ABF-B9DA-8A56B21CFDA5}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bloyteg.AW.ActionCommand.Translator", "Bloyteg.AW.ActionCommand.Translator\Bloyteg.AW.ActionCommand.Translator.fsproj", "{955A54FA-D1AE-4ABF-B9DA-8A56B21CFDA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

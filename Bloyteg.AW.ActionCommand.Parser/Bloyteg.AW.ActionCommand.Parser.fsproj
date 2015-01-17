@@ -8,9 +8,9 @@
     <ProjectGuid>{70a17761-ec50-42df-affd-4c8f414b1b57}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Byte.ActionCommandParser</RootNamespace>
-    <AssemblyName>Bloyteg.ActionCommand.Parser</AssemblyName>
+    <AssemblyName>Bloyteg.AW.AW.ActionCommand.Parser</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <Name>Byte.ActionCommand.Parser</Name>
+    <Name>Bloyteg.AW.ActionCommand.Parser</Name>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
     <RestorePackages>true</RestorePackages>
     <TargetFrameworkProfile />

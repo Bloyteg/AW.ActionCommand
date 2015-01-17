@@ -13,9 +13,9 @@
 // limitations under the License.
 // ========================================================================
 
-namespace Bloyteg.ActionCommand.Parser
+namespace Bloyteg.AW.ActionCommand.Parser
 open FParsec
-open Bloyteg.ActionCommand.Parser.ActionCommandAST
+open Bloyteg.AW.ActionCommand.Parser.ActionCommandAST
 open System
 open System.Linq
 

@@ -13,8 +13,8 @@
 // limitations under the License.
 // ========================================================================
 
-namespace Bloyteg.ActionCommand.Parser
-open Bloyteg.ActionCommand.Parser.ActionCommandAST
+namespace Bloyteg.AW.ActionCommand.Parser
+open Bloyteg.AW.ActionCommand.Parser.ActionCommandAST
 
 module internal ASTNodeBuilders = 
 

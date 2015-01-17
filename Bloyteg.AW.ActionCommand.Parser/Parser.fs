@@ -13,12 +13,12 @@
 // limitations under the License.
 // ========================================================================
 
-namespace Bloyteg.ActionCommand.Parser
+namespace Bloyteg.AW.ActionCommand.Parser
 open FParsec
 open FParsec.StaticMapping
-open Bloyteg.ActionCommand.Parser.ActionCommandAST
-open Bloyteg.ActionCommand.Parser.ASTNodeBuilders
-open Bloyteg.ActionCommand.Parser.TerminalParsers
+open Bloyteg.AW.ActionCommand.Parser.ActionCommandAST
+open Bloyteg.AW.ActionCommand.Parser.ASTNodeBuilders
+open Bloyteg.AW.ActionCommand.Parser.TerminalParsers
 
 module Parser = 
     type Commands =

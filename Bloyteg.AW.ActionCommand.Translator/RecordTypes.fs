@@ -13,7 +13,7 @@
 // limitations under the License.
 // ========================================================================
 
-namespace Bloyteg.ActionCommand.Translator
+namespace Bloyteg.AW.ActionCommand.Translator
 
 (* Define useful data structures *)
 type public Vector3 =

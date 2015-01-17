@@ -13,7 +13,7 @@
 // limitations under the License.
 // ========================================================================
 
-namespace Bloyteg.ActionCommand.Parser
+namespace Bloyteg.AW.ActionCommand.Parser
 module ActionCommandAST =
     type Timer =
         | NamedTimer of string * float * int option

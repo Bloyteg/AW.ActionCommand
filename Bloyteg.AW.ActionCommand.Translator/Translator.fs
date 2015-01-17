@@ -13,10 +13,10 @@
 // limitations under the License.
 // ========================================================================
 
-namespace Bloyteg.ActionCommand.Translator
-open Bloyteg.ActionCommand.Parser.Parser
-open Bloyteg.ActionCommand.Parser.ActionCommandAST
-open Bloyteg.ActionCommand.Translator
+namespace Bloyteg.AW.ActionCommand.Translator
+open Bloyteg.AW.ActionCommand.Parser.Parser
+open Bloyteg.AW.ActionCommand.Parser.ActionCommandAST
+open Bloyteg.AW.ActionCommand.Translator
 open System.Globalization
 
 type public ActionCommandTranslator() =

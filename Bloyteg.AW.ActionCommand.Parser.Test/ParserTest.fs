@@ -13,10 +13,10 @@
 // limitations under the License.
 // ========================================================================
 
-namespace Bloyteg.ActionCommand.Parser.Test
+namespace Bloyteg.AW.ActionCommand.Parser.Test
 open NUnit.Framework
-open Bloyteg.ActionCommand.Parser
-open Bloyteg.ActionCommand.Parser.ActionCommandAST
+open Bloyteg.AW.ActionCommand.Parser
+open Bloyteg.AW.ActionCommand.Parser.ActionCommandAST
 
 [<TestFixture>]
 module ParserTest =
